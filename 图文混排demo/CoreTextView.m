@@ -99,6 +99,7 @@
     CFRelease(frame);
     CFRelease(path);
     CFRelease(frameSetter);
+    
 }
 
 #pragma mark - CTRun delegate 回调方法
